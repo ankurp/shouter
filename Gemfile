@@ -50,4 +50,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'monban'
 gem 'monban-generators'
 gem 'record_tag_helper', '~> 1.0'
-gem 'paperclip'
+gem 'paperclip', '~> 5.1.0'
+gem 'sunspot_rails'
+gem 'sunspot_solr'
